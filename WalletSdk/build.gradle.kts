@@ -130,6 +130,7 @@ dependencies {
     implementation("com.google.accompanist:accompanist-permissions:0.34.0")
     implementation("androidx.test.ext:junit-ktx:1.1.5")
     /* End UI dependencies */
+    implementation("androidx.datastore:datastore-preferences:1.1.1")
     testImplementation("junit:junit:4.13.2")
 
     androidTestImplementation("com.android.support.test:runner:1.0.2")
